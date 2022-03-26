@@ -1,0 +1,8 @@
+Debug
+Debug_f407
+Release
+.vscode
+*.ld
+**/*.ld
+*.swp
+**/*.swp
